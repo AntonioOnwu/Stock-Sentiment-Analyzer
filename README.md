@@ -1,4 +1,4 @@
-# Stonkstop
+# Stock Sentiment Analyzer (StonkStop)
 Read Me 
 
 
