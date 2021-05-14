@@ -2,7 +2,7 @@
 Read Me 
 
 
-![Demo](https://user-images.githubusercontent.com/43736225/118315080-a8922980-b4ba-11eb-8a00-94f04b852dc2.mov)
+![Demo](https://user-images.githubusercontent.com/43736225/118315783-8fd64380-b4bb-11eb-8484-615de30fa84c.png)
 ---
 
 ### Table of Contents
