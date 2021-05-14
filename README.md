@@ -1,5 +1,8 @@
 # Stonkstop
 Read Me 
+
+
+![Demo](https://user-images.githubusercontent.com/43736225/118315080-a8922980-b4ba-11eb-8a00-94f04b852dc2.mov)
 ---
 
 ### Table of Contents
