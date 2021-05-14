@@ -16,7 +16,7 @@ Read Me
 
 ## Description
 
-This is a web application that scrapes reddit for trending stocks and then performs sentiment analysis on them. 
+This is a web application that rates stocks by web scrapping and performing sentiment analysis on the comments they appear in.  
 #### Technologies
 
 - React js
