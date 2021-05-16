@@ -1,0 +1,377 @@
+[
+    {
+        "key": 0,
+        "value": "PLTR",
+        "text": "PLTR"
+    },
+    {
+        "key": 1,
+        "value": "AMC",
+        "text": "AMC"
+    },
+    {
+        "key": 2,
+        "value": "UWMC",
+        "text": "UWMC"
+    },
+    {
+        "key": 3,
+        "value": "GME",
+        "text": "GME"
+    },
+    {
+        "key": 4,
+        "value": "TSLA",
+        "text": "TSLA"
+    },
+    {
+        "key": 5,
+        "value": "DISH",
+        "text": "DISH"
+    },
+    {
+        "key": 6,
+        "value": "CLOV",
+        "text": "CLOV"
+    },
+    {
+        "key": 7,
+        "value": "AMD",
+        "text": "AMD"
+    },
+    {
+        "key": 8,
+        "value": "ICE",
+        "text": "ICE"
+    },
+    {
+        "key": 9,
+        "value": "EYE",
+        "text": "EYE"
+    },
+    {
+        "key": 10,
+        "value": "COP",
+        "text": "COP"
+    },
+    {
+        "key": 11,
+        "value": "AAPL",
+        "text": "AAPL"
+    },
+    {
+        "key": 12,
+        "value": "VIAC",
+        "text": "VIAC"
+    },
+    {
+        "key": 13,
+        "value": "EAST",
+        "text": "EAST"
+    },
+    {
+        "key": 14,
+        "value": "FLY",
+        "text": "FLY"
+    },
+    {
+        "key": 15,
+        "value": "TOWN",
+        "text": "TOWN"
+    },
+    {
+        "key": 16,
+        "value": "LAND",
+        "text": "LAND"
+    },
+    {
+        "key": 17,
+        "value": "CAKE",
+        "text": "CAKE"
+    },
+    {
+        "key": 18,
+        "value": "FUBO",
+        "text": "FUBO"
+    },
+    {
+        "key": 19,
+        "value": "DOOR",
+        "text": "DOOR"
+    },
+    {
+        "key": 20,
+        "value": "B",
+        "text": "B"
+    },
+    {
+        "key": 21,
+        "value": "LOAN",
+        "text": "LOAN"
+    },
+    {
+        "key": 22,
+        "value": "ONTO",
+        "text": "ONTO"
+    },
+    {
+        "key": 23,
+        "value": "DKNG",
+        "text": "DKNG"
+    },
+    {
+        "key": 24,
+        "value": "PAYS",
+        "text": "PAYS"
+    },
+    {
+        "key": 25,
+        "value": "FIX",
+        "text": "FIX"
+    },
+    {
+        "key": 26,
+        "value": "WASH",
+        "text": "WASH"
+    },
+    {
+        "key": 27,
+        "value": "EARN",
+        "text": "EARN"
+    },
+    {
+        "key": 28,
+        "value": "NYC",
+        "text": "NYC"
+    },
+    {
+        "key": 29,
+        "value": "APPS",
+        "text": "APPS"
+    },
+    {
+        "key": 30,
+        "value": "BB",
+        "text": "BB"
+    },
+    {
+        "key": 31,
+        "value": "MED",
+        "text": "MED"
+    },
+    {
+        "key": 32,
+        "value": "CAMP",
+        "text": "CAMP"
+    },
+    {
+        "key": 33,
+        "value": "MAC",
+        "text": "MAC"
+    },
+    {
+        "key": 34,
+        "value": "TD",
+        "text": "TD"
+    },
+    {
+        "key": 35,
+        "value": "SAVE",
+        "text": "SAVE"
+    },
+    {
+        "key": 36,
+        "value": "SIRI",
+        "text": "SIRI"
+    },
+    {
+        "key": 37,
+        "value": "DEN",
+        "text": "DEN"
+    },
+    {
+        "key": 38,
+        "value": "DARE",
+        "text": "DARE"
+    },
+    {
+        "key": 39,
+        "value": "COST",
+        "text": "COST"
+    },
+    {
+        "key": 40,
+        "value": "BC",
+        "text": "BC"
+    },
+    {
+        "key": 41,
+        "value": "LEAP",
+        "text": "LEAP"
+    },
+    {
+        "key": 42,
+        "value": "MARK",
+        "text": "MARK"
+    },
+    {
+        "key": 43,
+        "value": "MILE",
+        "text": "MILE"
+    },
+    {
+        "key": 44,
+        "value": "RIDE",
+        "text": "RIDE"
+    },
+    {
+        "key": 45,
+        "value": "SC",
+        "text": "SC"
+    },
+    {
+        "key": 46,
+        "value": "SHOP",
+        "text": "SHOP"
+    },
+    {
+        "key": 47,
+        "value": "LB",
+        "text": "LB"
+    },
+    {
+        "key": 48,
+        "value": "BOOM",
+        "text": "BOOM"
+    },
+    {
+        "key": 49,
+        "value": "BBY",
+        "text": "BBY"
+    },
+    {
+        "key": 50,
+        "value": "GUT",
+        "text": "GUT"
+    },
+    {
+        "key": 51,
+        "value": "CARS",
+        "text": "CARS"
+    },
+    {
+        "key": 52,
+        "value": "HOOK",
+        "text": "HOOK"
+    },
+    {
+        "key": 53,
+        "value": "SNAP",
+        "text": "SNAP"
+    },
+    {
+        "key": 54,
+        "value": "BLTS",
+        "text": "BLTS"
+    },
+    {
+        "key": 55,
+        "value": "CUZ",
+        "text": "CUZ"
+    },
+    {
+        "key": 56,
+        "value": "SU",
+        "text": "SU"
+    },
+    {
+        "key": 57,
+        "value": "AGE",
+        "text": "AGE"
+    },
+    {
+        "key": 58,
+        "value": "BOX",
+        "text": "BOX"
+    },
+    {
+        "key": 59,
+        "value": "ALOT",
+        "text": "ALOT"
+    },
+    {
+        "key": 60,
+        "value": "K",
+        "text": "K"
+    },
+    {
+        "key": 61,
+        "value": "MAYS",
+        "text": "MAYS"
+    },
+    {
+        "key": 62,
+        "value": "FLOW",
+        "text": "FLOW"
+    },
+    {
+        "key": 63,
+        "value": "RICE",
+        "text": "RICE"
+    },
+    {
+        "key": 64,
+        "value": "IRL",
+        "text": "IRL"
+    },
+    {
+        "key": 65,
+        "value": "PACK",
+        "text": "PACK"
+    },
+    {
+        "key": 66,
+        "value": "F",
+        "text": "F"
+    },
+    {
+        "key": 67,
+        "value": "BMBL",
+        "text": "BMBL"
+    },
+    {
+        "key": 68,
+        "value": "DIS",
+        "text": "DIS"
+    },
+    {
+        "key": 69,
+        "value": "FORD",
+        "text": "FORD"
+    },
+    {
+        "key": 70,
+        "value": "LAZY",
+        "text": "LAZY"
+    },
+    {
+        "key": 71,
+        "value": "COLD",
+        "text": "COLD"
+    },
+    {
+        "key": 72,
+        "value": "SUP",
+        "text": "SUP"
+    },
+    {
+        "key": 73,
+        "value": "AI",
+        "text": "AI"
+    },
+    {
+        "key": 74,
+        "value": "HOME",
+        "text": "HOME"
+    }
+]

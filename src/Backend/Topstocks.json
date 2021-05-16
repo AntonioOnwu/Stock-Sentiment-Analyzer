@@ -1,0 +1,52 @@
+[
+    {
+        "stock": "PLTR",
+        "mentions": 9,
+        "rating": "Hold"
+    },
+    {
+        "stock": "AMC",
+        "mentions": 8,
+        "rating": "Sell"
+    },
+    {
+        "stock": "UWMC",
+        "mentions": 4,
+        "rating": "Hold"
+    },
+    {
+        "stock": "GME",
+        "mentions": 4,
+        "rating": "Strong sell"
+    },
+    {
+        "stock": "TSLA",
+        "mentions": 4,
+        "rating": "Buy"
+    },
+    {
+        "stock": "DISH",
+        "mentions": 3,
+        "rating": "Strong buy"
+    },
+    {
+        "stock": "CLOV",
+        "mentions": 3,
+        "rating": "Hold"
+    },
+    {
+        "stock": "AMD",
+        "mentions": 3,
+        "rating": "Hold"
+    },
+    {
+        "stock": "ICE",
+        "mentions": 2,
+        "rating": "Buy"
+    },
+    {
+        "stock": "EYE",
+        "mentions": 2,
+        "rating": "Strong buy"
+    }
+]
