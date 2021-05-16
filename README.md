@@ -7,7 +7,7 @@ Read Me
 ![Demo](https://user-images.githubusercontent.com/43736225/118315783-8fd64380-b4bb-11eb-8484-615de30fa84c.png)
 
 
-(![Screen Recording 2021-05-14 at 10 20 48 AM](https://user-images.githubusercontent.com/43736225/118414867-b25b8e80-b66c-11eb-8ff1-357dc699a5e4.gif)
+![Screen Recording 2021-05-14 at 10 20 48 AM](https://user-images.githubusercontent.com/43736225/118414867-b25b8e80-b66c-11eb-8ff1-357dc699a5e4.gif)
 ---
 
 ### Table of Contents
