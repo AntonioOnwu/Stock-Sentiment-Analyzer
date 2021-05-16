@@ -1,8 +1,13 @@
+
+
 # Stock Sentiment Analyzer (StonkStop)
 Read Me 
 
 
 ![Demo](https://user-images.githubusercontent.com/43736225/118315783-8fd64380-b4bb-11eb-8484-615de30fa84c.png)
+
+
+![Demo]https://user-images.githubusercontent.com/43736225/118386268-e63aa380-b5db-11eb-895c-61287e79ad54.mov
 ---
 
 ### Table of Contents
