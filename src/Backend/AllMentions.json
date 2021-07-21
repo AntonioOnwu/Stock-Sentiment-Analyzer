@@ -1,0 +1,232 @@
+[
+    {
+        "key": 0,
+        "value": "GOOD",
+        "text": "GOOD"
+    },
+    {
+        "key": 1,
+        "value": "TSLA",
+        "text": "TSLA"
+    },
+    {
+        "key": 2,
+        "value": "CLOV",
+        "text": "CLOV"
+    },
+    {
+        "key": 3,
+        "value": "IT",
+        "text": "IT"
+    },
+    {
+        "key": 4,
+        "value": "CRSR",
+        "text": "CRSR"
+    },
+    {
+        "key": 5,
+        "value": "AT",
+        "text": "AT"
+    },
+    {
+        "key": 6,
+        "value": "DD",
+        "text": "DD"
+    },
+    {
+        "key": 7,
+        "value": "COIN",
+        "text": "COIN"
+    },
+    {
+        "key": 8,
+        "value": "BB",
+        "text": "BB"
+    },
+    {
+        "key": 9,
+        "value": "CLF",
+        "text": "CLF"
+    },
+    {
+        "key": 10,
+        "value": "AMZN",
+        "text": "AMZN"
+    },
+    {
+        "key": 11,
+        "value": "NICE",
+        "text": "NICE"
+    },
+    {
+        "key": 12,
+        "value": "PLTR",
+        "text": "PLTR"
+    },
+    {
+        "key": 13,
+        "value": "AAPL",
+        "text": "AAPL"
+    },
+    {
+        "key": 14,
+        "value": "FDS",
+        "text": "FDS"
+    },
+    {
+        "key": 15,
+        "value": "OPEN",
+        "text": "OPEN"
+    },
+    {
+        "key": 16,
+        "value": "BIG",
+        "text": "BIG"
+    },
+    {
+        "key": 17,
+        "value": "GOLD",
+        "text": "GOLD"
+    },
+    {
+        "key": 18,
+        "value": "POST",
+        "text": "POST"
+    },
+    {
+        "key": 19,
+        "value": "MMM",
+        "text": "MMM"
+    },
+    {
+        "key": 20,
+        "value": "TACO",
+        "text": "TACO"
+    },
+    {
+        "key": 21,
+        "value": "NFLX",
+        "text": "NFLX"
+    },
+    {
+        "key": 22,
+        "value": "HOPE",
+        "text": "HOPE"
+    },
+    {
+        "key": 23,
+        "value": "CCL",
+        "text": "CCL"
+    },
+    {
+        "key": 24,
+        "value": "CLNE",
+        "text": "CLNE"
+    },
+    {
+        "key": 25,
+        "value": "ALL",
+        "text": "ALL"
+    },
+    {
+        "key": 26,
+        "value": "TD",
+        "text": "TD"
+    },
+    {
+        "key": 27,
+        "value": "GS",
+        "text": "GS"
+    },
+    {
+        "key": 28,
+        "value": "WKHS",
+        "text": "WKHS"
+    },
+    {
+        "key": 29,
+        "value": "FUBO",
+        "text": "FUBO"
+    },
+    {
+        "key": 30,
+        "value": "WELL",
+        "text": "WELL"
+    },
+    {
+        "key": 31,
+        "value": "PUMP",
+        "text": "PUMP"
+    },
+    {
+        "key": 32,
+        "value": "SAVE",
+        "text": "SAVE"
+    },
+    {
+        "key": 33,
+        "value": "GLAD",
+        "text": "GLAD"
+    },
+    {
+        "key": 34,
+        "value": "WISH",
+        "text": "WISH"
+    },
+    {
+        "key": 35,
+        "value": "NIO",
+        "text": "NIO"
+    },
+    {
+        "key": 36,
+        "value": "CHPT",
+        "text": "CHPT"
+    },
+    {
+        "key": 37,
+        "value": "DOW",
+        "text": "DOW"
+    },
+    {
+        "key": 38,
+        "value": "TDA",
+        "text": "TDA"
+    },
+    {
+        "key": 39,
+        "value": "GO",
+        "text": "GO"
+    },
+    {
+        "key": 40,
+        "value": "NOK",
+        "text": "NOK"
+    },
+    {
+        "key": 41,
+        "value": "RIOT",
+        "text": "RIOT"
+    },
+    {
+        "key": 42,
+        "value": "MARA",
+        "text": "MARA"
+    },
+    {
+        "key": 43,
+        "value": "BBBY",
+        "text": "BBBY"
+    },
+    {
+        "key": 44,
+        "value": "PDD",
+        "text": "PDD"
+    },
+    {
+        "key": 45,
+        "value": "OCGN",
+        "text": "OCGN"
+    }
+]

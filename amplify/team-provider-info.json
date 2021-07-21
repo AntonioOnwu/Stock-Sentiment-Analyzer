@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-stonkstop-dev-233802-authRole",
+      "UnauthRoleArn": "arn:aws:iam::009379926050:role/amplify-stonkstop-dev-233802-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::009379926050:role/amplify-stonkstop-dev-233802-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-stonkstop-dev-233802-deployment",
+      "UnauthRoleName": "amplify-stonkstop-dev-233802-unauthRole",
+      "StackName": "amplify-stonkstop-dev-233802",
+      "StackId": "arn:aws:cloudformation:us-east-2:009379926050:stack/amplify-stonkstop-dev-233802/708f3610-e9dd-11eb-add8-069c8f716388",
+      "AmplifyAppId": "d2rt646rwd657z"
+    }
+  }
+}

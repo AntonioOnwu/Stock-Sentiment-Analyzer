@@ -1,0 +1,52 @@
+[
+    {
+        "stock": "GOOD",
+        "mentions": 5,
+        "rating": "Buy"
+    },
+    {
+        "stock": "TSLA",
+        "mentions": 4,
+        "rating": "Buy"
+    },
+    {
+        "stock": "CLOV",
+        "mentions": 3,
+        "rating": "Buy"
+    },
+    {
+        "stock": "IT",
+        "mentions": 3,
+        "rating": "Sell"
+    },
+    {
+        "stock": "CRSR",
+        "mentions": 2,
+        "rating": "Buy"
+    },
+    {
+        "stock": "AT",
+        "mentions": 2,
+        "rating": "Strong buy"
+    },
+    {
+        "stock": "DD",
+        "mentions": 2,
+        "rating": "Sell"
+    },
+    {
+        "stock": "COIN",
+        "mentions": 2,
+        "rating": "Hold"
+    },
+    {
+        "stock": "BB",
+        "mentions": 2,
+        "rating": "Buy"
+    },
+    {
+        "stock": "CLF",
+        "mentions": 2,
+        "rating": "Buy"
+    }
+]

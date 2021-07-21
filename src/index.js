@@ -1,17 +1,42 @@
-import React from 'react';
+import React, {useState} from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import Query from '/Users/antonioonwu/stonkstop/src/Components/Query.js'
+import Result from '/Users/antonioonwu/stonkstop/src/Components/Result.js'
+import MostMentioned from './Components/MostMentioned.js'
+import 'semantic-ui-css/semantic.min.css'
+import {StyledBody, StyledHeader, StyledBack} from '/Users/antonioonwu/stonkstop/src/Style.js';
+import Amplify from "aws-amplify";
+import awsExports from "./aws-exports";
+Amplify.configure(awsExports);
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+const Stonkstop = () => {
+  const [stock,setStock] = useState('')
+      return (
+        <StyledBody> 
+        <div>
+
+<StyledHeader><StyledBack><span>Welcome to Stonk</span><span style={{color: '#ff0404'}}>Stop</span></StyledBack></StyledHeader>
+
+         <Query setStock ={setStock}/>
+
+          <Result stock ={stock}/>
+          
+          <MostMentioned stock = {stock}/> 
+        </div>
+        </StyledBody>
+      );
+  }
+  
+  // ========================================
+  
+  ReactDOM.render(
+    <Stonkstop/>,
+    document.getElementById('root')
+  );
+  
+
+
+     
+
+  
